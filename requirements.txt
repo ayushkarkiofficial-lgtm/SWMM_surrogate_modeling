@@ -1,0 +1,18 @@
+# Core pipeline (Phase 2)
+numpy==1.26.4
+pandas==1.5.1
+scipy==1.12.0
+matplotlib==3.7.1
+
+# Surrogate modeling (Phase 3+)
+scikit-learn==1.6.1
+xgboost==3.0.2
+
+# Notebook environment
+jupyterlab
+
+# Sensitivity analysis (Phase 4)
+shap==0.49.1
+
+# Optional / later phases (uncomment when needed)
+# pyswmm         # in-process SWMM run + results (Cell 7 learning demo)
