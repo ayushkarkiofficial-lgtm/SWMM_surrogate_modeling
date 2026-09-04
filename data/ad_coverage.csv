@@ -1,0 +1,4 @@
+metric,MC_coverage_pct,threshold
+range,99.38,
+mahalanobis,98.83,3.179
+knn,92.31,1.323
