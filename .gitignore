@@ -23,3 +23,12 @@ env/
 # --- OS ---
 Thumbs.db
 .DS_Store
+
+# --- Visualization virtualenv (regenerable) ---
+.venv_viz/
+
+# --- Presentation / HTML deliverables (kept OUT of the code repo) ---
+*.pptx
+*.html
+scripts/build_pptx.py
+scripts/build_walkthrough_html.py
