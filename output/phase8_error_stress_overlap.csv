@@ -1,0 +1,243 @@
+network,group,real,n_top_err_nodes,n_top_err_in_stress,frac_in_stress,n_stressed_nodes
+Loenen,testing - DWF,real_100,5,0,0.0,32
+Loenen,testing - DWF,real_101,5,0,0.0,55
+Loenen,testing - DWF,real_102,5,0,0.0,46
+Loenen,testing - DWF,real_103,5,1,0.2,145
+Loenen,testing - DWF,real_104,5,0,0.0,29
+Loenen,testing - DWF,real_105,5,2,0.4,131
+Loenen,testing - DWF,real_106,5,0,0.0,31
+Loenen,testing - DWF,real_107,5,3,0.6,176
+Loenen,testing - DWF,real_108,5,0,0.0,42
+Loenen,testing - DWF,real_109,5,0,0.0,30
+Loenen,testing - DWF,real_110,5,0,0.0,31
+Loenen,testing - DWF,real_111,5,0,0.0,29
+Loenen,testing - DWF,real_112,5,0,0.0,30
+Loenen,testing - DWF,real_113,5,0,0.0,36
+Loenen,testing - DWF,real_114,5,0,0.0,29
+Loenen,testing - DWF,real_115,5,0,0.0,39
+Loenen,testing - DWF,real_116,5,0,0.0,7
+Loenen,testing - DWF,real_117,5,0,0.0,24
+Loenen,testing - DWF,real_118,5,0,0.0,16
+Loenen,testing - DWF,real_119,5,0,0.0,38
+Loenen,testing - DWF,real_120,5,0,0.0,15
+Loenen,testing - DWF,real_121,3,1,0.3333333333333333,219
+Loenen,testing - DWF,real_122,5,0,0.0,30
+Loenen,testing - DWF,real_123,4,1,0.25,170
+Loenen,testing - DWF,real_124,5,0,0.0,32
+Loenen,testing - DWF,real_125,5,1,0.2,50
+Loenen,testing - DWF,real_126,5,0,0.0,17
+Loenen,testing - DWF,real_97,5,1,0.2,67
+Loenen,testing - DWF,real_98,5,0,0.0,30
+Loenen,testing - DWF,real_99,5,0,0.0,5
+Loenen,training,real_0,5,0,0.0,36
+Loenen,training,real_10,5,0,0.0,50
+Loenen,training,real_11,5,0,0.0,5
+Loenen,training,real_12,5,0,0.0,35
+Loenen,training,real_13,5,0,0.0,5
+Loenen,training,real_14,5,0,0.0,30
+Loenen,training,real_15,5,1,0.2,62
+Loenen,training,real_16,2,1,0.5,196
+Loenen,training,real_17,5,0,0.0,31
+Loenen,training,real_18,5,0,0.0,30
+Loenen,training,real_19,5,0,0.0,5
+Loenen,training,real_1,5,0,0.0,30
+Loenen,training,real_20,5,0,0.0,35
+Loenen,training,real_21,2,1,0.5,217
+Loenen,training,real_22,4,1,0.25,110
+Loenen,training,real_23,5,0,0.0,38
+Loenen,training,real_24,1,1,1.0,256
+Loenen,training,real_25,5,0,0.0,27
+Loenen,training,real_26,3,1,0.3333333333333333,66
+Loenen,training,real_27,2,2,1.0,234
+Loenen,training,real_28,5,0,0.0,32
+Loenen,training,real_29,3,1,0.3333333333333333,67
+Loenen,training,real_2,5,0,0.0,30
+Loenen,training,real_30,5,0,0.0,29
+Loenen,training,real_31,5,0,0.0,12
+Loenen,training,real_32,5,0,0.0,26
+Loenen,training,real_33,2,1,0.5,181
+Loenen,training,real_34,5,0,0.0,50
+Loenen,training,real_35,5,0,0.0,29
+Loenen,training,real_36,5,0,0.0,52
+Loenen,training,real_37,5,0,0.0,38
+Loenen,training,real_38,5,0,0.0,29
+Loenen,training,real_39,5,0,0.0,29
+Loenen,training,real_3,5,0,0.0,7
+Loenen,training,real_40,5,0,0.0,29
+Loenen,training,real_41,5,0,0.0,39
+Loenen,training,real_42,5,0,0.0,36
+Loenen,training,real_43,5,0,0.0,13
+Loenen,training,real_44,1,0,0.0,144
+Loenen,training,real_45,5,0,0.0,13
+Loenen,training,real_46,5,0,0.0,31
+Loenen,training,real_47,5,0,0.0,36
+Loenen,training,real_48,5,0,0.0,31
+Loenen,training,real_49,1,0,0.0,156
+Loenen,training,real_4,5,0,0.0,71
+Loenen,training,real_50,3,2,0.6666666666666666,203
+Loenen,training,real_51,4,1,0.25,82
+Loenen,training,real_52,5,0,0.0,28
+Loenen,training,real_53,5,0,0.0,30
+Loenen,training,real_54,5,0,0.0,30
+Loenen,training,real_55,5,0,0.0,36
+Loenen,training,real_56,5,0,0.0,5
+Loenen,training,real_57,5,0,0.0,7
+Loenen,training,real_58,5,0,0.0,28
+Loenen,training,real_59,5,0,0.0,34
+Loenen,training,real_5,5,0,0.0,28
+Loenen,training,real_60,4,3,0.75,190
+Loenen,training,real_61,5,0,0.0,31
+Loenen,training,real_62,5,1,0.2,102
+Loenen,training,real_63,5,0,0.0,41
+Loenen,training,real_64,2,0,0.0,107
+Loenen,training,real_65,5,1,0.2,117
+Loenen,training,real_67,5,0,0.0,36
+Loenen,training,real_68,5,0,0.0,30
+Loenen,training,real_69,5,0,0.0,13
+Loenen,training,real_6,5,0,0.0,53
+Loenen,training,real_70,5,0,0.0,5
+Loenen,training,real_72,5,0,0.0,28
+Loenen,training,real_73,5,0,0.0,5
+Loenen,training,real_74,5,0,0.0,7
+Loenen,training,real_75,5,0,0.0,29
+Loenen,training,real_76,5,0,0.0,36
+Loenen,training,real_77,5,0,0.0,27
+Loenen,training,real_78,2,0,0.0,98
+Loenen,training,real_79,5,1,0.2,99
+Loenen,training,real_7,1,1,1.0,236
+Loenen,training,real_80,2,0,0.0,73
+Loenen,training,real_81,5,1,0.2,128
+Loenen,training,real_8,5,0,0.0,7
+Loenen,training,real_9,5,0,0.0,13
+Loenen,validation,real_82,5,0,0.0,5
+Loenen,validation,real_83,5,0,0.0,62
+Loenen,validation,real_84,3,1,0.3333333333333333,137
+Loenen,validation,real_85,5,0,0.0,30
+Loenen,validation,real_86,5,0,0.0,36
+Loenen,validation,real_87,5,1,0.2,82
+Loenen,validation,real_88,5,0,0.0,5
+Loenen,validation,real_89,3,3,1.0,237
+Loenen,validation,real_90,5,0,0.0,29
+Loenen,validation,real_91,2,1,0.5,205
+Loenen,validation,real_92,5,1,0.2,76
+Loenen,validation,real_93,5,0,0.0,30
+Loenen,validation,real_94,5,0,0.0,9
+Loenen,validation,real_95,5,1,0.2,64
+Loenen,validation,real_96,5,0,0.0,14
+Tuindorp,testing - DWF,real_108,5,0,0.0,7
+Tuindorp,testing - DWF,real_109,5,5,1.0,307
+Tuindorp,testing - DWF,real_111,5,0,0.0,0
+Tuindorp,testing - DWF,real_112,3,0,0.0,22
+Tuindorp,testing - DWF,real_113,1,0,0.0,8
+Tuindorp,testing - DWF,real_114,5,0,0.0,4
+Tuindorp,testing - DWF,real_115,5,0,0.0,3
+Tuindorp,testing - DWF,real_117,5,0,0.0,0
+Tuindorp,testing - DWF,real_118,5,0,0.0,0
+Tuindorp,testing - DWF,real_119,5,0,0.0,14
+Tuindorp,testing - DWF,real_120,5,0,0.0,0
+Tuindorp,testing - DWF,real_121,1,0,0.0,9
+Tuindorp,testing - DWF,real_122,2,1,0.5,147
+Tuindorp,testing - DWF,real_123,5,1,0.2,58
+Tuindorp,testing - DWF,real_124,3,2,0.6666666666666666,287
+Tuindorp,testing - DWF,real_125,3,3,1.0,292
+Tuindorp,testing - DWF,real_126,5,0,0.0,24
+Tuindorp,testing - DWF,real_127,5,0,0.0,14
+Tuindorp,testing - DWF,real_128,5,0,0.0,9
+Tuindorp,testing - DWF,real_129,5,0,0.0,8
+Tuindorp,testing - DWF,real_130,5,0,0.0,1
+Tuindorp,testing - DWF,real_131,1,1,1.0,304
+Tuindorp,testing - DWF,real_132,4,4,1.0,188
+Tuindorp,testing - DWF,real_133,3,0,0.0,8
+Tuindorp,testing - DWF,real_134,2,2,1.0,307
+Tuindorp,testing - DWF,real_135,5,0,0.0,0
+Tuindorp,testing - DWF,real_136,5,0,0.0,81
+Tuindorp,testing - DWF,real_137,5,0,0.0,1
+Tuindorp,training,real_0,1,1,1.0,303
+Tuindorp,training,real_11,2,1,0.5,295
+Tuindorp,training,real_12,5,0,0.0,0
+Tuindorp,training,real_13,5,0,0.0,0
+Tuindorp,training,real_14,2,0,0.0,255
+Tuindorp,training,real_15,5,0,0.0,10
+Tuindorp,training,real_16,5,0,0.0,1
+Tuindorp,training,real_17,5,0,0.0,3
+Tuindorp,training,real_18,5,0,0.0,7
+Tuindorp,training,real_19,5,0,0.0,4
+Tuindorp,training,real_1,5,0,0.0,0
+Tuindorp,training,real_20,5,0,0.0,3
+Tuindorp,training,real_21,2,0,0.0,20
+Tuindorp,training,real_22,4,1,0.25,176
+Tuindorp,training,real_23,5,0,0.0,9
+Tuindorp,training,real_24,5,3,0.6,270
+Tuindorp,training,real_25,5,0,0.0,1
+Tuindorp,training,real_27,5,5,1.0,307
+Tuindorp,training,real_28,5,0,0.0,3
+Tuindorp,training,real_29,5,0,0.0,24
+Tuindorp,training,real_2,4,4,1.0,295
+Tuindorp,training,real_30,2,0,0.0,11
+Tuindorp,training,real_31,5,5,1.0,307
+Tuindorp,training,real_32,5,0,0.0,12
+Tuindorp,training,real_33,5,0,0.0,8
+Tuindorp,training,real_35,1,1,1.0,288
+Tuindorp,training,real_36,4,4,1.0,308
+Tuindorp,training,real_38,5,0,0.0,0
+Tuindorp,training,real_39,5,0,0.0,18
+Tuindorp,training,real_3,5,0,0.0,0
+Tuindorp,training,real_40,2,1,0.5,229
+Tuindorp,training,real_41,5,5,1.0,308
+Tuindorp,training,real_42,5,5,1.0,304
+Tuindorp,training,real_43,5,0,0.0,11
+Tuindorp,training,real_44,5,0,0.0,8
+Tuindorp,training,real_45,4,4,1.0,308
+Tuindorp,training,real_46,1,1,1.0,308
+Tuindorp,training,real_49,5,5,1.0,308
+Tuindorp,training,real_4,1,1,1.0,304
+Tuindorp,training,real_50,5,0,0.0,0
+Tuindorp,training,real_51,5,0,0.0,0
+Tuindorp,training,real_52,5,4,0.8,126
+Tuindorp,training,real_53,5,0,0.0,0
+Tuindorp,training,real_54,5,0,0.0,26
+Tuindorp,training,real_55,5,0,0.0,0
+Tuindorp,training,real_56,4,4,1.0,307
+Tuindorp,training,real_57,4,0,0.0,0
+Tuindorp,training,real_58,5,5,1.0,304
+Tuindorp,training,real_59,5,0,0.0,9
+Tuindorp,training,real_5,5,4,0.8,267
+Tuindorp,training,real_60,5,5,1.0,292
+Tuindorp,training,real_61,4,2,0.5,272
+Tuindorp,training,real_62,5,5,1.0,308
+Tuindorp,training,real_63,1,0,0.0,267
+Tuindorp,training,real_64,3,3,1.0,286
+Tuindorp,training,real_65,1,1,1.0,306
+Tuindorp,training,real_66,5,5,1.0,307
+Tuindorp,training,real_67,5,0,0.0,0
+Tuindorp,training,real_68,5,5,1.0,297
+Tuindorp,training,real_69,5,1,0.2,82
+Tuindorp,training,real_6,5,0,0.0,39
+Tuindorp,training,real_70,5,0,0.0,9
+Tuindorp,training,real_71,5,0,0.0,74
+Tuindorp,training,real_72,5,4,0.8,223
+Tuindorp,training,real_73,5,0,0.0,0
+Tuindorp,training,real_74,4,3,0.75,289
+Tuindorp,training,real_75,5,0,0.0,0
+Tuindorp,training,real_76,5,0,0.0,0
+Tuindorp,training,real_77,5,0,0.0,1
+Tuindorp,training,real_78,3,3,1.0,308
+Tuindorp,training,real_79,3,3,1.0,299
+Tuindorp,training,real_7,5,0,0.0,10
+Tuindorp,training,real_8,2,0,0.0,7
+Tuindorp,training,real_9,5,1,0.2,68
+Tuindorp,validation,real_80,5,0,0.0,0
+Tuindorp,validation,real_81,3,2,0.6666666666666666,175
+Tuindorp,validation,real_82,5,0,0.0,0
+Tuindorp,validation,real_83,4,4,1.0,303
+Tuindorp,validation,real_84,3,3,1.0,303
+Tuindorp,validation,real_85,5,5,1.0,306
+Tuindorp,validation,real_86,5,5,1.0,292
+Tuindorp,validation,real_87,5,5,1.0,308
+Tuindorp,validation,real_88,1,1,1.0,307
+Tuindorp,validation,real_89,5,0,0.0,31
+Tuindorp,validation,real_90,5,0,0.0,4
+Tuindorp,validation,real_91,4,3,0.75,282
+Tuindorp,validation,real_92,5,5,1.0,297
+Tuindorp,validation,real_93,5,0,0.0,0
+Tuindorp,validation,real_94,5,5,1.0,288

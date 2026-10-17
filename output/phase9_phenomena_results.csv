@@ -1,0 +1,16 @@
+network,phenomenon,target,n,MAE_in,MAE_out,ratio,delta,p,replicates,note
+loenen,10 rapid-fill / mixed-flow (steep+full),head,187,0.22896,0.07357,3.112,0.547,4.753211711155994e-38,True,
+loenen,1 surcharge onset (d/D~1),head,1939,0.1672,0.06528,2.561,0.441,3.332376113759555e-224,True,
+loenen,2 backwater / dn-control,flow,2902,0.01081,0.0044,2.457,0.426,7.458889770872379e-299,True,
+loenen,13 hysteresis (|lag| high),flow,4928,0.00945,0.00401,2.356,0.398,0.0,True,
+loenen,5 flow reversal,flow,3298,0.00994,0.00442,2.25,0.389,2.163086807398518e-276,True,
+loenen,11 drawdown / falling-limb lag,flow,761,0.00853,0.00516,1.654,0.214,9.17925790130882e-24,True,
+loenen,12 adverse/flat slope,flow,900,0.00721,0.0052,1.387,0.204,3.360236727873601e-25,True,
+loenen,4 near-critical (Fr~1),vel,5029,0.04331,0.04348,0.996,0.023,0.01191089513541795,False,
+loenen,6 no-flood->flood threshold,head,126,0.0731,0.07501,0.974,0.234,6.019785284130359e-06,False,
+loenen,7 low->high flood / ponding,head,110,0.07106,0.07502,0.947,0.217,8.163191485630621e-05,False,
+loenen,15 confluence / junction (n_in>=2),head,3600,0.06783,0.07654,0.886,-0.015,0.1714983794934084,False,
+loenen,3 hydraulic jump (mixed sub+sup),vel,4792,0.03745,0.04519,0.829,-0.034,0.0003463905669201865,False,
+loenen,14 dry->wet intermittent,flow,174,0.00273,0.0053,0.515,-0.279,2.2418817033553151e-10,False,
+loenen,8 weir/orifice control,flow,0,,,,,,False,too few / absent
+loenen,9 pump/gate switching,flow,0,,,,,,False,too few / absent

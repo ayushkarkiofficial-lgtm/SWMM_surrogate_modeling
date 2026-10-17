@@ -1,0 +1,16 @@
+network,phenomenon,target,n,MAE_in,MAE_out,ratio,delta,p,replicates,note
+tuindorp,4 near-critical (Fr~1),vel,456,0.08889,0.04328,2.054,0.342,5.9872203039496484e-36,True,
+tuindorp,5 flow reversal,flow,5919,0.00741,0.00551,1.346,0.252,3.3432035577611615e-177,True,
+tuindorp,14 dry->wet intermittent,flow,2728,0.00717,0.00588,1.218,0.098,1.6302151122182525e-16,False,
+tuindorp,2 backwater / dn-control,flow,8839,0.0067,0.00557,1.204,0.168,7.286498412843816e-95,False,
+tuindorp,3 hydraulic jump (mixed sub+sup),vel,60,0.04978,0.04427,1.125,0.099,0.1868110552839395,False,
+tuindorp,1 surcharge onset (d/D~1),head,3998,0.05745,0.05536,1.038,-0.024,0.020198630345376622,False,
+tuindorp,12 adverse/flat slope,flow,9300,0.00613,0.00599,1.023,0.004,0.6375564161929614,False,
+tuindorp,13 hysteresis (|lag| high),flow,3650,0.006,0.00606,0.989,0.064,1.4973750761945807e-09,False,
+tuindorp,15 confluence / junction (n_in>=2),head,3720,0.05318,0.05669,0.938,-0.017,0.11232067473015205,False,
+tuindorp,10 rapid-fill / mixed-flow (steep+full),head,573,0.05245,0.05601,0.937,-0.083,0.0006865966692868716,False,
+tuindorp,11 drawdown / falling-limb lag,flow,2474,0.00419,0.00631,0.665,-0.137,2.114832090450396e-28,False,
+tuindorp,7 low->high flood / ponding,head,236,0.02968,0.05627,0.527,-0.148,8.934940749602014e-05,False,
+tuindorp,6 no-flood->flood threshold,head,241,0.02375,0.05637,0.421,-0.324,4.80679449809649e-18,False,
+tuindorp,8 weir/orifice control,flow,0,,,,,,False,too few / absent
+tuindorp,9 pump/gate switching,flow,0,,,,,,False,too few / absent

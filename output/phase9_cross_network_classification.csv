@@ -1,0 +1,16 @@
+phenomenon,target,ratio_L,ratio_T,delta_L,delta_T,n_L,n_T,class
+5 flow reversal,flow,2.25,1.346,0.389,0.252,3298,5919,Replicated
+2 backwater / dn-control,flow,2.457,1.204,0.426,0.168,2902,8839,Network-specific (Loenen>Tuindorp)
+4 near-critical (Fr~1),vel,0.996,2.054,0.023,0.342,5029,456,Tuindorp-only
+10 rapid-fill / mixed-flow (steep+full),head,3.112,0.937,0.547,-0.083,187,573,Non-replicating (Loenen-only)
+1 surcharge onset (d/D~1),head,2.561,1.038,0.441,-0.024,1939,3998,Non-replicating (Loenen-only)
+13 hysteresis (|lag| high),flow,2.356,0.989,0.398,0.064,4928,3650,Non-replicating (Loenen-only)
+11 drawdown / falling-limb lag,flow,1.654,0.665,0.214,-0.137,761,2474,Non-replicating (Loenen-only)
+12 adverse/flat slope,flow,1.387,1.023,0.204,0.004,900,9300,Non-replicating (Loenen-only)
+6 no-flood->flood threshold,head,0.974,0.421,0.234,-0.324,126,241,Not an AD edge
+7 low->high flood / ponding,head,0.947,0.527,0.217,-0.148,110,236,Not an AD edge
+15 confluence / junction (n_in>=2),head,0.886,0.938,-0.015,-0.017,3600,3720,Not an AD edge
+3 hydraulic jump (mixed sub+sup),vel,0.829,1.125,-0.034,0.099,4792,60,Not an AD edge
+14 dry->wet intermittent,flow,0.515,1.218,-0.279,0.098,174,2728,Not an AD edge
+8 weir/orifice control,flow,,,,,0,0,Structurally absent
+9 pump/gate switching,flow,,,,,0,0,Structurally absent

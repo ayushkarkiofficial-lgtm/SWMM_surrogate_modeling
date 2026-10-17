@@ -1,34 +1,15 @@
-# --- SWMM run artifacts (regenerable, bulky) ---
-runs/
-*.out
-*.ini
+# Track only notebooks, exported results, and this ignore file.
+/*
+!/.gitignore
+!/notebooks/
+!/output/
 
-# --- Trained models (regenerable from notebooks) ---
-models/
-*.joblib
-
-# --- Large Monte Carlo output (regenerable, ~4 MB) ---
-data/mc_results.csv
-
-# --- Python ---
-__pycache__/
+# Ignore generated caches and temporary files inside the kept folders.
+**/.ipynb_checkpoints/
+**/__pycache__/
 *.py[cod]
-.venv/
-venv/
-env/
-
-# --- Jupyter ---
-.ipynb_checkpoints/
-
-# --- OS ---
-Thumbs.db
+*.ini
+*.out
+*.joblib
 .DS_Store
-
-# --- Visualization virtualenv (regenerable) ---
-.venv_viz/
-
-# --- Presentation / HTML deliverables (kept OUT of the code repo) ---
-*.pptx
-*.html
-scripts/build_pptx.py
-scripts/build_walkthrough_html.py
+Thumbs.db
